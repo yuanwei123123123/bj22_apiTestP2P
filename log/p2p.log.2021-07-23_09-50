@@ -1,0 +1,4 @@
+2021-07-23 09:50:46,749 INFO [root] [__init__.py(<module>:5)] - info
+2021-07-23 09:50:46,781 ERROR [root] [__init__.py(<module>:6)] - error
+2021-07-23 09:50:46,948 INFO [root] [trust.py(test01_trust_request:23)] - login response = {'status': 200, 'description': '登录成功'}
+2021-07-23 09:50:47,004 INFO [root] [trust.py(test01_trust_request:27)] - trust register response = {'status': 100}

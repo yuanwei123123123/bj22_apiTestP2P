@@ -1,0 +1,7 @@
+2021-07-23 09:40:57,794 INFO [root] [__init__.py(<module>:5)] - info
+2021-07-23 09:40:57,828 ERROR [root] [__init__.py(<module>:6)] - error
+2021-07-23 09:40:58,033 INFO [root] [approve.py(test01_approve_success:28)] - login response = {'status': 200, 'description': '登录成功'}
+2021-07-23 09:42:03,236 INFO [root] [__init__.py(<module>:5)] - info
+2021-07-23 09:42:03,237 ERROR [root] [__init__.py(<module>:6)] - error
+2021-07-23 09:42:03,422 INFO [root] [approve.py(test04_get_approve:69)] - login response = {'status': 200, 'description': '登录成功'}
+2021-07-23 09:42:03,450 INFO [root] [approve.py(test04_get_approve:73)] - approve response = {'is_email_open': '-1', 'lastlogin_time': '1627004445', 'group_status': '', 'is_auth_user': '-1', 'is_realname_open': '2', 'is_corp': '-1', 'business_license': '', 'realname_remark': 'Trust register notify', 'card_id': '110****995', 'realname': '张**', 'isCert': '2', 'realname_card': '1', 'pay_pwd': '', 'phone': '130****7711', 'realname_status': '1', 'trustType': 'chinapnr', 'pwd': '1', 'email': '', 'is_trust': '1'}
